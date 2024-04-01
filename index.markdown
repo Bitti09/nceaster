@@ -15,7 +15,7 @@ Domains
 |  ltd  | €/Monat | €/Setup  | MVLZ  |  AZ   |
 | :---: | :-----: | :------: | :---: | :---: |
 | .net  |  1,39   |    0     |  12M  |  12M  |
-| .de  |  0,13   | **2,00** |  12M  |  12M  |
+|  .de  |  0,13   | **2,00** |  12M  |  12M  |
 | .com  |  0,99   |    0     |  12M  |  12M  |
 |  .eu  |  0,42   |    0     |  12M  |  12M  |
 |  .ch  |  0,60   |    0     |  12M  |  12M  |
@@ -34,9 +34,9 @@ RS
  
 VPS
 ===
-|         Typ         | €/Monat | €/Setup | MVLZ  |   AZ   | Unterschied zur normalen Version | Screenshot der Specs |
-| :-----------------: | :-----: | :-----: | :---: | :----: | :------------------------------: | :------------------- |
-| VPS 2000 G10 SE NUE |  13,59  |    0    |  1M   | 1M | + 2 vCPU & 160 GB SSD | [VPS 2000 NUE](/images/vps2000nue.jpeg)|
+|         Typ         | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version | Screenshot der Specs                    |
+| :-----------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :-------------------------------------- |
+| VPS 2000 G10 SE NUE |  13,59  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 NUE](/images/vps2000nue.jpeg) |
 
 
 Webhosting
@@ -64,6 +64,6 @@ Addons
 
 Merch
 ===
-|  Typ  | €/Monat | €/Einmalig | Screenshot der Specs |
-| :---: | :-----: | :--------: | :------------------: |
-|       |         |            |                      |
+|  Typ  |  €/Einmalig | Screenshot der Specs |
+| :---: |  :--------: | :------------------: |
+|netcup Coffee2Go|  23,98       |[Coffee2Go](/images/nccoffee2go.jpeg)            |   
