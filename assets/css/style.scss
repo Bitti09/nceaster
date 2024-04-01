@@ -1,0 +1,18 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/initialize";
+
+.wrapper {
+  max-width: calc(100vw - (30px * 2));
+}
+
+@media screen and (min-width: 800px) {
+  .wrapper {
+    max-width: calc(100vw - (30px * 2)) !important;
+  }
+}
+.site-header {
+    border-top: 0;
+}
