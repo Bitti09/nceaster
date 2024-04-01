@@ -36,21 +36,21 @@ RS
  
 VPS
 ===
-|         Typ          | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version | Screenshot der Specs                    |
-| :------------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :-------------------------------------- |
-| VPS 2000 G10 SE NUE  |  13,59  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 NUE](/images/vps2000nue.jpeg) |
-| VPS 2000 G10 SE VIE  |  13,20  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 VIE](/images/vps2000vie.jpeg) |
-| VPS 1000 G10 SE VIE  |  9,62   |    0    |  1M   |  1M   |       + 2 vCPU & 80 GB SSD       | [VPS 1000 VIE](/images/vps1000vie.jpeg) |
+|         Typ          | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version | Screenshot der Specs                              |
+| :------------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :------------------------------------------------ |
+| VPS 2000 G10 SE NUE  |  13,59  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 NUE](/images/vps2000nue.jpeg)           |
+| VPS 2000 G10 SE VIE  |  13,20  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 VIE](/images/vps2000vie.jpeg)           |
+| VPS 1000 G10 SE VIE  |  9,62   |    0    |  1M   |  1M   |       + 2 vCPU & 80 GB SSD       | [VPS 1000 VIE](/images/vps1000vie.jpeg)           |
 | VPS Schoko Bunny VIE |  25,30  |    0    |  1M   |  1M   |       + 2 vCPU & 80 GB SSD       | [VPS Schoko Bunny VIE](/images/vpsschokovie.jpeg) |
 
 
 Webhosting
 ===
-|   Typ    | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |          Screenshot der Specs          |
-| :------: | :-----: | :----: | :-----: | :---: | :---: | :------------------------------------: |
-| 4000 NUE |  5,05   |  42%   |    0    |  12M  |  12M  | [Web 4000 NUE](/images/ws4000nue.jpeg) |
-|   1000   |  1,08   |  50%   |    0    |  12M  |  12M  |    [Web 1000](/images/web1000.jpeg)    |
-
+|         Typ          | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |            Screenshot der Specs            |
+| :------------------: | :-----: | :----: | :-----: | :---: | :---: | :----------------------------------------: |
+|       4000 NUE       |  5,05   |  42%   |    0    |  12M  |  12M  |   [Web 4000 NUE](/images/ws4000nue.jpeg)   |
+|         1000         |  1,08   |  50%   |    0    |  12M  |  12M  |      [Web 1000](/images/web1000.jpeg)      |
+| Eggcellent NUE / VIE |  6,20   | "42%"  |    0    |  12M  |  3M   | [Web Eggcellent](/images/wseggcelent.jpeg) |
 
 Reseller
 ===
