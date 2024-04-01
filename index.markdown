@@ -64,11 +64,12 @@ Reseller
 
 Addons
 ===
-|              Typ              | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   |              Screenshot der Specs               |
-| :---------------------------: | :----: | :-----: | :-----: | :---: | :---: | :---------------------------------------------: |
-| Cloud vLAN 2,5 Gbit NUE / VIE |  45%   |  11,28  |    0    |  12M  |  1M   | [Cloud vLAN 2,5 Gbit](/images/cloudvlan25.jpeg) |
-|   Cloud vLAN Giga NUE / VIE   |  49%   |  6,69   |    0    |  12M  |  3M   |  [Cloud vLAN Giga](/images/cloudvlangiga.jpeg)  |
-
+|                Typ                 | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   |              Screenshot der Specs               |
+| :--------------------------------: | :----: | :-----: | :-----: | :---: | :---: | :---------------------------------------------: |
+|   Cloud vLAN 2,5 Gbit NUE / VIE    |  45%   |  11,28  |    0    |  12M  |  1M   | [Cloud vLAN 2,5 Gbit](/images/cloudvlan25.jpeg) |
+|     Cloud vLAN Giga NUE / VIE      |  49%   |  6,69   |    0    |  12M  |  3M   |  [Cloud vLAN Giga](/images/cloudvlangiga.jpeg)  |
+|  Failover IPv4 Adresse NUE / VIE   |  36%   |  3,20   |    5    |  12M  |  6M   |    [Failover IPv4](/images/failoverv4.jpeg)     |
+| Zusätzliche IPv4 Adresse NUE / VIE |  20%   |  1,59   |    2    |  12M  |  12M  |    [Zusätzliche IPv4](/images/addipv4.jpeg)     |
 
 Merch
 ===
