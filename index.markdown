@@ -63,9 +63,10 @@ Reseller
 
 Addons
 ===
-|       Typ       | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   | Screenshot der Specs |
-| :-------------: | :----: | :-----: | :-----: | :---: | :---: | :------------------: |
-| Cloud vLAN Giga NUE / VIE |  49%   |  6,69   |    0    |  12M  |  3M   |[Cloud vLAN Giga](/images/cloudvlangiga.jpeg)
+|              Typ              | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   |               Screenshot der Specs                |
+| :---------------------------: | :----: | :-----: | :-----: | :---: | :---: | :-----------------------------------------------: |
+| Cloud vLAN 2,5 Gbit NUE / VIE |  45%   |  11,28  |    0    |  12M  |  1M   | [Cloud vLAN 2,5 Gbit](/images/cloudvlan25.jpeg) |
+|   Cloud vLAN Giga NUE / VIE   |  49%   |  6,69   |    0    |  12M  |  3M   |   [Cloud vLAN Giga](/images/cloudvlangiga.jpeg)   |
 
 
 Merch
