@@ -20,6 +20,7 @@ Domains
 |  .eu  |  0,42   |    0     |  12M  |  12M  |
 |  .ch  |  0,60   |    0     |  12M  |  12M  |
 |  .at  |  0,86   |    0     |  12M  |  12M  |
+| .org  |  1,19   |    0     |  12M  |  12M  |
 
 
 RS
@@ -64,6 +65,6 @@ Addons
 
 Merch
 ===
-|  Typ  |  €/Einmalig | Screenshot der Specs |
-| :---: |  :--------: | :------------------: |
-|netcup Coffee2Go|  23,98       |[Coffee2Go](/images/nccoffee2go.jpeg)            |   
+|       Typ        | €/Einmalig |         Screenshot der Specs          |
+| :--------------: | :--------: | :-----------------------------------: |
+| netcup Coffee2Go |   23,98    | [Coffee2Go](/images/nccoffee2go.jpeg) |
