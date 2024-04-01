@@ -18,13 +18,16 @@ Domains
 | .net  |  0,13   | **2,00** |  12M  |  12M  |
 | .com  |  0,99   |    0     |  12M  |  12M  |
 |  .eu  |  0,42   |    0     |  12M  |  12M  |
+|  .ch  |  0,60   |    0     |  12M  |  12M  |
 
 
 RS
 ===
-|         Typ         | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version | Screenshot der Specs |
-| :-----------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :------------------: |
-| RS 1000 G9.5 SE NUE |  10,20  |    0    |  1m   |  1M   |  [RS 1000](/images/rs1000.jpeg)  |
+|         Typ         | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version |         Screenshot der Specs          |
+| :-----------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :-----------------------------------: |
+| RS 4000 G9.5 SE NUE |  32,83  |    0    |  1m   |  1M   |          **+ 1TB SSD**           | [RS 4000 NUE](/images/rs4000nue.jpeg) |
+| RS 2000 G9.5 SE NUE |  17,55  |    0    |  1m   |  1M   |          **+ 320GB SSD**           | [RS 2000 NUE](/images/rs2000nue.jpeg) |
+| RS 1000 G9.5 SE NUE |  10,20  |    0    |  1m   |  1M   |                                  |    [RS 1000 NUE](/images/rs1000.jpeg)     |
 
  
  
