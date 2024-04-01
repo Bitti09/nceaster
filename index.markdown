@@ -50,6 +50,7 @@ Webhosting
 |         Typ          | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |            Screenshot der Specs            |
 | :------------------: | :-----: | :----: | :-----: | :---: | :---: | :----------------------------------------: |
 |       4000 NUE       |  5,05   |  42%   |    0    |  12M  |  12M  |   [Web 4000 NUE](/images/ws4000nue.jpeg)   |
+|       2000 NUE       |  2,58   |  20%   |    0    |  12M  |  12M  |      [Web 1000](/images/ws2000nue.jpeg)      |
 |         1000         |  1,08   |  50%   |    0    |  12M  |  12M  |      [Web 1000](/images/web1000.jpeg)      |
 | Eggcellent NUE / VIE |  6,20   | "42%"  |    0    |  12M  |  3M   | [Web Eggcellent](/images/wseggcelent.jpeg) |
 
@@ -63,15 +64,16 @@ Reseller
 
 Addons
 ===
-|              Typ              | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   |               Screenshot der Specs                |
-| :---------------------------: | :----: | :-----: | :-----: | :---: | :---: | :-----------------------------------------------: |
+|              Typ              | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   |              Screenshot der Specs               |
+| :---------------------------: | :----: | :-----: | :-----: | :---: | :---: | :---------------------------------------------: |
 | Cloud vLAN 2,5 Gbit NUE / VIE |  45%   |  11,28  |    0    |  12M  |  1M   | [Cloud vLAN 2,5 Gbit](/images/cloudvlan25.jpeg) |
-|   Cloud vLAN Giga NUE / VIE   |  49%   |  6,69   |    0    |  12M  |  3M   |   [Cloud vLAN Giga](/images/cloudvlangiga.jpeg)   |
+|   Cloud vLAN Giga NUE / VIE   |  49%   |  6,69   |    0    |  12M  |  3M   |  [Cloud vLAN Giga](/images/cloudvlangiga.jpeg)  |
 
 
 Merch
 ===
-|                Typ                 | €/Einmalig |         Screenshot der Specs          |
-| :--------------------------------: | :--------: | :-----------------------------------: |
-|          netcup Coffee2Go          |   23,98    | [Coffee2Go](/images/nccoffee2go.jpeg) |
-| netcup Hoodie männlich  GS S - 3XL |   47,98    |    [Hoodie](/images/nchoodie.jpeg)    |
+|                Typ                 | €/Einmalig |         Screenshot der Specs          | Bemerkung |
+| :--------------------------------: | :--------: | :-----------------------------------: | :-------: |
+|          netcup Coffee2Go          |   23,98    | [Coffee2Go](/images/nccoffee2go.jpeg) |           |
+| netcup Hoodie männlich  GS S - 3XL |   47,98    |    [Hoodie](/images/nchoodie.jpeg)    |           |
+| netcup Hoodie weiblich  GS M - 2XL |   47,98    |   [Hoodie](/images/nchoodiew.jpeg)    |           |
