@@ -50,8 +50,8 @@ Webhosting
 |         Typ          | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |            Screenshot der Specs            |
 | :------------------: | :-----: | :----: | :-----: | :---: | :---: | :----------------------------------------: |
 |       4000 NUE       |  5,05   |  42%   |    0    |  12M  |  12M  |   [Web 4000 NUE](/images/ws4000nue.jpeg)   |
-|       2000 NUE       |  2,58   |  20%   |    0    |  12M  |  12M  |      [Web 1000](/images/ws2000nue.jpeg)      |
-|         1000         |  1,08   |  50%   |    0    |  12M  |  12M  |      [Web 1000](/images/web1000.jpeg)      |
+|       2000 NUE       |  2,58   |  20%   |    0    |  12M  |  12M  |   [Web 2000 NUE](/images/ws2000nue.jpeg)   |
+|       1000 NUE       |  1,08   |  20%   |    0    |  12M  |  12M  |   [Web 1000 NUE](/images/ws1000nue.jpeg)   |
 | Eggcellent NUE / VIE |  6,20   | "42%"  |    0    |  12M  |  3M   | [Web Eggcellent](/images/wseggcelent.jpeg) |
 
 Reseller
