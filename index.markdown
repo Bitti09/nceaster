@@ -6,7 +6,7 @@ layout: home
 title: ""
 ---
 
-MVLZ = Mindestvertragslaufzeit 
+MVLZ = Mindestvertragslaufzeit   
 AZ = Abrechnungszeitraum  
 Preise sind inkl. 19% MwSt.  
 
