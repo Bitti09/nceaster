@@ -19,6 +19,7 @@ Domains
 | .com  |  0,99   |    0     |  12M  |  12M  |
 |  .eu  |  0,42   |    0     |  12M  |  12M  |
 |  .ch  |  0,60   |    0     |  12M  |  12M  |
+|  .at  |  0,86   |    0     |  12M  |  12M  |
 
 
 RS
@@ -26,24 +27,24 @@ RS
 |         Typ         | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version |         Screenshot der Specs          |
 | :-----------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :-----------------------------------: |
 | RS 4000 G9.5 SE NUE |  32,83  |    0    |  1m   |  1M   |          **+ 1TB SSD**           | [RS 4000 NUE](/images/rs4000nue.jpeg) |
-| RS 2000 G9.5 SE NUE |  17,55  |    0    |  1m   |  1M   |          **+ 320GB SSD**           | [RS 2000 NUE](/images/rs2000nue.jpeg) |
-| RS 1000 G9.5 SE NUE |  10,20  |    0    |  1m   |  1M   |                                  |    [RS 1000 NUE](/images/rs1000.jpeg)     |
+| RS 2000 G9.5 SE NUE |  17,55  |    0    |  1m   |  1M   |         **+ 320GB SSD**          | [RS 2000 NUE](/images/rs2000nue.jpeg) |
+| RS 1000 G9.5 SE NUE |  10,20  |    0    |  1m   |  1M   |                                  |  [RS 1000 NUE](/images/rs1000.jpeg)   |
 
  
  
 VPS
 ===
-|  Typ  | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version | Screenshot der Specs |
-| :---: | :-----: | :-----: | :---: | :---: | :------------------------------: | :------------------- |
-|  ---  |   --    |    -    |   -   |   -   |                                  |                      |
+|         Typ         | €/Monat | €/Setup | MVLZ  |   AZ   | Unterschied zur normalen Version | Screenshot der Specs |
+| :-----------------: | :-----: | :-----: | :---: | :----: | :------------------------------: | :------------------- |
+| VPS 2000 G10 SE NUE |  13,59  |    0    |  1M   | 1M | + 2 vCPU & 160 GB SSD | [VPS 2000 NUE](/images/vps2000nue.jpeg)|
 
 
 Webhosting
 ===
-|  Typ  | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |                                Screenshot der Specs                                |
-| :---: | :-----: | :----: | :-----: | :---: | :---: | :--------------------------------------------------------------------------------: |
-| 4000  |  5,05   |  42%   |    0    |  12M  |  12M  | [Web 4000](https://raw.githubusercontent.com/Bitti09/nceaster23/main/web4000.jpeg) |
-| 1000  |  1,08   |  50%   |    0    |  12M  |  12M  |                          [Web 1000](/images/web1000.jpeg)                          |
+|   Typ    | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |          Screenshot der Specs          |
+| :------: | :-----: | :----: | :-----: | :---: | :---: | :------------------------------------: |
+| 4000 NUE |  5,05   |  42%   |    0    |  12M  |  12M  | [Web 4000 NUE](/images/ws4000nue.jpeg) |
+|   1000   |  1,08   |  50%   |    0    |  12M  |  12M  |    [Web 1000](/images/web1000.jpeg)    |
 
 
 Reseller
