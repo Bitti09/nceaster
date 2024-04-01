@@ -30,7 +30,8 @@ RS
 | RS 4000 G9.5 SE NUE |  32,83  |    0    |  1m   |  1M   |          **+ 1TB SSD**           | [RS 4000 NUE](/images/rs4000nue.jpeg) |
 | RS 2000 G9.5 SE NUE |  17,55  |    0    |  1m   |  1M   |         **+ 320GB SSD**          | [RS 2000 NUE](/images/rs2000nue.jpeg) |
 | RS 1000 G9.5 SE NUE |  10,20  |    0    |  1m   |  1M   |                                  |  [RS 1000 NUE](/images/rs1000.jpeg)   |
-
+| RS Easter Duck NUE |  58,93  |    0    |  1m   |  1M   |                                  |  [RS Easter Duck NUE](/images/rseasterducknue.jpeg)   |
+| RS Easter Duck VIE |  57,23  |    0    |  1m   |  1M   |                                  |  [RS Easter Duck VIE](/images/rseasterduckvie.jpeg)   |
  
  
 VPS
