@@ -41,6 +41,7 @@ VPS
 | VPS 2000 G10 SE NUE  |  13,59  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 NUE](/images/vps2000nue.jpeg)           |
 | VPS 2000 G10 SE VIE  |  13,20  |    0    |  1M   |  1M   |      + 2 vCPU & 160 GB SSD       | [VPS 2000 VIE](/images/vps2000vie.jpeg)           |
 | VPS 1000 G10 SE VIE  |  9,62   |    0    |  1M   |  1M   |       + 2 vCPU & 80 GB SSD       | [VPS 1000 VIE](/images/vps1000vie.jpeg)           |
+|     VPS 500 G10s     |  5,49   |    0    |  1M   |  3M   |       + 2 vCPU & 80 GB SSD       | [VPS 500](/images/vps500.jpeg)                    |
 | VPS Schoko Bunny VIE |  25,30  |    0    |  1M   |  1M   |       + 2 vCPU & 80 GB SSD       | [VPS Schoko Bunny VIE](/images/vpsschokovie.jpeg) |
 
 
@@ -62,9 +63,9 @@ Reseller
 
 Addons
 ===
-|  Typ  | €/Monat | €/Setup | MVLZ  |  AZ   | Screenshot der Specs |
-| :---: | :-----: | :-----: | :---: | :---: | :------------------: |
-|       |         |         |       |       |                      |
+|       Typ       | Rabatt | €/Monat | €/Setup | MVLZ  |  AZ   | Screenshot der Specs |
+| :-------------: | :----: | :-----: | :-----: | :---: | :---: | :------------------: |
+| Cloud vLAN Giga NUE / VIE |  49%   |  6,69   |    0    |  12M  |  3M   |[Cloud vLAN Giga](/images/cloudvlangiga.jpeg)
 
 
 Merch
