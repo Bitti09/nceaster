@@ -46,6 +46,11 @@ VPS
 |     VPS 500 G10s     |  5,49   |    0    |  1M   |  3M   |       + 2 vCPU & 80 GB SSD       |          [VPS 500](/images/vps500.jpeg)           |
 | VPS Schoko Bunny VIE |  25,30  |    0    |  1M   |  1M   |       + 2 vCPU & 80 GB SSD       | [VPS Schoko Bunny VIE](/images/vpsschokovie.jpeg) |
 
+VPS ARM
+===
+|  Typ  | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version | Screenshot der Specs |
+| :---: | :-----: | :-----: | :---: | :---: | :------------------------------: | :------------------: |
+|       |         |         |       |       |                                  |                      |
 
 Webhosting
 ===
