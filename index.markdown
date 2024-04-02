@@ -28,8 +28,8 @@ RS
 |         Typ         | €/Monat | €/Setup | MVLZ  |  AZ   | Unterschied zur normalen Version |                Screenshot der Specs                |
 | :-----------------: | :-----: | :-----: | :---: | :---: | :------------------------------: | :------------------------------------------------: |
 | RS 4000 G9.5 SE NUE |  32,83  |    0    |  1m   |  1M   |          **+ 1TB SSD**           |       [RS 4000 NUE](/images/rs4000nue.jpeg)        |
-| RS 3000 G9.5 SE NUE |  25,39  |    0    |  1m   |  1M   |     **8 vCPU & 960 GB SSD**      |       [RS 3000 NUE](/images/rs3000nue.jpeg)       |
-| RS 3000 G9.5 SE VIE |  24,67  |    0    |  1m   |  1M   |     **8 vCPU & 960 GB SSD**      |       [RS 3000 VIE](/images/rs3000vie.jpeg)       |
+| RS 3000 G9.5 SE NUE |  25,39  |    0    |  1m   |  1M   |     **8 vCPU & 960 GB SSD**      |       [RS 3000 NUE](/images/rs3000nue.jpeg)        |
+| RS 3000 G9.5 SE VIE |  24,67  |    0    |  1m   |  1M   |     **8 vCPU & 960 GB SSD**      |       [RS 3000 VIE](/images/rs3000vie.jpeg)        |
 | RS 2000 G9.5 SE NUE |  17,55  |    0    |  1m   |  1M   |         **+ 320GB SSD**          |       [RS 2000 NUE](/images/rs2000nue.jpeg)        |
 | RS 1000 G9.5 SE NUE |  10,20  |    0    |  1m   |  1M   |                                  |         [RS 1000 NUE](/images/rs1000.jpeg)         |
 | RS Easter Duck NUE  |  58,93  |    0    |  1m   |  1M   |                                  | [RS Easter Duck NUE](/images/rseasterducknue.jpeg) |
@@ -49,12 +49,12 @@ VPS
 
 Webhosting
 ===
-|         Typ          | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |            Screenshot der Specs            |
-| :------------------: | :-----: | :----: | :-----: | :---: | :---: | :----------------------------------------: |
-|       4000 NUE       |  5,05   |  42%   |    0    |  12M  |  12M  |   [Web 4000 NUE](/images/ws4000nue.jpeg)   |
-|       2000 NUE       |  2,58   |  20%   |    0    |  12M  |  12M  |   [Web 2000 NUE](/images/ws2000nue.jpeg)   |
-|       1000 NUE       |  1,08   |  20%   |    0    |  12M  |  12M  |   [Web 1000 NUE](/images/ws1000nue.jpeg)   |
-| Eggcellent NUE / VIE |  6,20   | "42%"  |    0    |  12M  |  3M   | [Web Eggcellent](/images/wseggcelent.jpeg) |
+|               Typ               | €/Monat | Rabatt | €/Setup | MVLZ  |  AZ   |            Screenshot der Specs            |
+| :-----------------------------: | :-----: | :----: | :-----: | :---: | :---: | :----------------------------------------: |
+|    4000 NUE / VIE / NUE int.    |  5,05   |  42%   |    0    |  12M  |  12M  |   [Web 4000 NUE](/images/ws4000nue.jpeg)   |
+|         2000 NUE / VIE          |  2,58   |  20%   |    0    |  12M  |  12M  |   [Web 2000 NUE](/images/ws2000nue.jpeg)   |
+|         1000 NUE / VIE          |  1,08   |  20%   |    0    |  12M  |  12M  |   [Web 1000 NUE](/images/ws1000nue.jpeg)   |
+| Eggcellent NUE / VIE / NUE int. |  6,20   | "42%"  |    0    |  12M  |  3M   | [Web Eggcellent](/images/wseggcelent.jpeg) |
 
 Reseller
 ===
